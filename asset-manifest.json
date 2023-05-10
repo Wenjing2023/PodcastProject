@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/code_cast/static/css/main.cffb297a.css",
-    "main.js": "/code_cast/static/js/main.7b666146.js",
-    "static/js/787.8d674128.chunk.js": "/code_cast/static/js/787.8d674128.chunk.js",
-    "static/media/logo5.png": "/code_cast/static/media/logo5.bca90a626bc869537d26.png",
-    "index.html": "/code_cast/index.html",
-    "main.cffb297a.css.map": "/code_cast/static/css/main.cffb297a.css.map",
-    "main.7b666146.js.map": "/code_cast/static/js/main.7b666146.js.map",
-    "787.8d674128.chunk.js.map": "/code_cast/static/js/787.8d674128.chunk.js.map"
+    "main.css": "/podcastproject/static/css/main.b214866f.css",
+    "main.js": "/podcastproject/static/js/main.5276941e.js",
+    "static/js/787.8d674128.chunk.js": "/podcastproject/static/js/787.8d674128.chunk.js",
+    "static/media/logo5.png": "/podcastproject/static/media/logo5.bca90a626bc869537d26.png",
+    "index.html": "/podcastproject/index.html",
+    "main.b214866f.css.map": "/podcastproject/static/css/main.b214866f.css.map",
+    "main.5276941e.js.map": "/podcastproject/static/js/main.5276941e.js.map",
+    "787.8d674128.chunk.js.map": "/podcastproject/static/js/787.8d674128.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cffb297a.css",
-    "static/js/main.7b666146.js"
+    "static/css/main.b214866f.css",
+    "static/js/main.5276941e.js"
   ]
 }
