@@ -16,4 +16,6 @@ A user should be able to:
 * Add a favourites/your subscription list to display on the app
 * Functionality to play the selected podcast
 
-
+# To run the app in your VScode
+* Go to the `server` directory and enter `npm run seeds` and `npm install `l to create and populate the database with pre-stored data. * Run `npm run server:dev` to run the back-end on http://localhost:9000/
+* Go to the `client` directory and type `npm install` to install dependencies. Run `npm start` to run the front end on http://localhost:3000/
