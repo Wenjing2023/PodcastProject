@@ -12,6 +12,7 @@ A user should be able to:
 
 # Extensions
 
+* Create an .env file under client folder with API ID and key
 * Add a filter search bar to the application to find specific podcasts 
 * Add a favourites/your subscription list to display on the app
 * Functionality to play the selected podcast
