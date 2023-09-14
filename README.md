@@ -21,3 +21,7 @@ A user should be able to:
 * Go to the `server` directory and enter `npm run seeds` and `npm install `l to create and populate the database with pre-stored data. 
 * Run `npm run server:dev` to run the back-end on http://localhost:9000/
 * Go to the `client` directory and type `npm install` to install dependencies. Run `npm start` to run the front end on http://localhost:3000/
+
+
+https://github.com/Wenjing2023/PodcastProject/assets/126068755/86b9b4c9-7db4-4ee7-a3a4-94b9928a5189
+
